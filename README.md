@@ -1,4 +1,4 @@
-## Multiplication Facts Fast App
+title: Multiplication Facts Fast App
 
 ### Privacy Policy
   Multiplication Facts Fast does not collect any personal data from its users or share any information with third parties. A user's best quiz score is stored locally on the device and can be reset at any time by the user. 
