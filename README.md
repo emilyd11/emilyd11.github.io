@@ -7,4 +7,4 @@
 
 
 ### About the Developer
-  Hi, my name is Emily and I am a highschool student interested in computer science. I created Multiplication Facts Fast for my brother to use for school. 
+  Hi, my name is Emily and I am a high school student interested in computer science. I created Multiplication Facts Fast for my brother to use for school. 
